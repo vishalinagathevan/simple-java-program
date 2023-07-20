@@ -8,6 +8,6 @@ class add {
     // add two numbers
     int sum = first + second;
     System.out.println(first + " + " + second + " = "  + sum);
-    System.out.println("vishali");
+    System.out.println("vishali ");
   }
 }
